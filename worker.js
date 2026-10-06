@@ -8,7 +8,7 @@
 // ============================================
 const CONFIG = {
     vmessUUID: "3b01a777-55e7-49f6-8637-d94ee69607c6",
-    proxyListUrl: "https://raw.githubusercontent.com/papapapapdelesia/Emilia/refs/heads/main/Data/Country-ALIVE.txt",
+    proxyListUrl: "https://raw.githubusercontent.com/hadesphantom12/cf/refs/heads/main/Country-ALIVE.txt",
     checkApiUrl: "https://cprx-ku5.vercel.app/api/check",
     cacheTTL: 300000, // 5 menit dalam milidetik
 };
